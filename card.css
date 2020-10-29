@@ -1,0 +1,12 @@
+.cardColumn
+{
+    flex: 20%;
+    padding: 5px;
+    
+}
+.cardRow
+{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
